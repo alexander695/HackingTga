@@ -81,6 +81,9 @@ sleep 3
 cd Tools
 git clone https://github.com/palahsu/MBomb.git
 cd MBomb
+cd 'MBomb v2'
+pip install colorama 
+pip install tqdm
 python MBomb.py
 
 ## DDOS Attack
