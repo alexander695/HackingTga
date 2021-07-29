@@ -9,7 +9,11 @@ Tools to help you with ethical hacking, Social media hack, phone info, Gmail att
 
 • Fix error removing downloaded programs
 
-• How to use Section added (Turkish only)
+• How to use Sectg ion added (Turkish only)
+
+# Updating V1.5
+
+•Gmail bomber install fixed
 
 # Updating V1.4
 
